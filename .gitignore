@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.vscode/
+# El log se genera al ejecutar; se conserva la carpeta con .gitkeep
+logs/*.log
